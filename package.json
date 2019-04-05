@@ -1,0 +1,23 @@
+{
+  "name": "flamingopress",
+  "version": "1.0.0",
+  "description": "master website for Flamingo Press",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwilm/flamingoPress.git"
+  },
+  "keywords": [
+    "master",
+    "site"
+  ],
+  "author": "bw.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwilm/flamingoPress/issues"
+  },
+  "homepage": "https://github.com/bwilm/flamingoPress#readme"
+}
